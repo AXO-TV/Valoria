@@ -1,7 +1,7 @@
 {
     "name": "Valoria",
-    "preductname": "Cobblemon Star Academy Launcher",
-    "version": "3.0.7",
+    "preductname": "Valoria Launcher",
+    "version": "3.0.8",
     "description": "Launcher Minecraft pour le serveur Valoria",
     "main": "src/app.js",
     "author": {

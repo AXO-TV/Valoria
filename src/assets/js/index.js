@@ -31,8 +31,8 @@ class Splash {
     async startAnimation() {
         let splashes = [
             { "message": "Attrapez les tous !", "author": "AXO" },
-            { "message": "Je deviendrai le meilleur dresseur !", "author": "AXO" },
-            { "message": "Bienvenue sur le Launcher Cobblemon Star Academy !", "author": "AXO" }
+            { "message": "Tu deviendras le meilleur dresseur !", "author": "AXO" },
+            { "message": "Bienvenue sur le Launcher de Valoria !", "author": "AXO" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
