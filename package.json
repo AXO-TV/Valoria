@@ -1,7 +1,7 @@
 {
     "name": "Valoria",
     "preductname": "Cobblemon Star Academy Launcher",
-    "version": "3.0.5",
+    "version": "3.0.6",
     "description": "Launcher Minecraft pour le serveur Valoria",
     "main": "src/app.js",
     "author": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AXO-TV/Cobblemon-Star-Academy"
+        "url": "git+https://github.com/AXO-TV/Valoria"
     }
 }
