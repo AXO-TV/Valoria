@@ -1,15 +1,15 @@
 {
-    "name": "cobblemon-star-academy",
+    "name": "Valoria",
     "preductname": "Cobblemon Star Academy Launcher",
-    "version": "3.0.4",
-    "description": "Launcher Minecraft pour le serveur Cobblemon Star Academy",
+    "version": "3.0.5",
+    "description": "Launcher Minecraft pour le serveur Valoria",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, AXO, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://ultimate-shinobi-web.craftserv.fr",
+    "url": "https://valoria-web.craftserv.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
