@@ -1,11 +1,11 @@
 {
     "name": "Valoria",
     "preductname": "Valoria Launcher",
-    "version": "3.0.9",
+    "version": "3.1.0",
     "description": "Launcher Minecraft pour le serveur Valoria",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, AXO, Inc.",
+        "name": "luuxis, AXO, NéoFox, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
